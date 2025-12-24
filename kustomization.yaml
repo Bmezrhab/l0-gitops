@@ -5,3 +5,4 @@ resources:
 
   # L1
   - namespaces/lakehouse.yaml
+  - lakehouse/minio
