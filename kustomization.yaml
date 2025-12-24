@@ -1,0 +1,3 @@
+resources:
+  - namespaces/l0-demo.yaml
+  - apps/demo-app.yaml
