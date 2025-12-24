@@ -1,3 +1,7 @@
 resources:
+  # L0
   - namespaces/l0-demo.yaml
   - apps/demo-app.yaml
+
+  # L1
+  - namespaces/lakehouse.yaml
